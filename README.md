@@ -11,7 +11,7 @@ This project was developed for a programming challenge competition. The objectiv
 ## How it works
 The bot continuously monitors the current market value of EUR/GBP using the provided API and calculates two EMAs (short-term and long-term). A crossover of the short-term EMA above the long-term EMA generates a buy signal, while a crossover below generates a sell signal. The bot then adjusts positions based on the chosen strategy parameters.
 
-Team Participants:
+## Team Participants:
 - [Raul Blanco Vazquez](https://www.linkedin.com/in/raulblancovazquez/)
 - [Zara Hussain](https://www.linkedin.com/in/zara-hussain-b0229b208/)
 - [Zeeshan Masood](https://www.linkedin.com/in/zeeshan-masood/)
