@@ -13,5 +13,5 @@ The bot continuously monitors the current market value of EUR/GBP using the prov
 
 ## Team Participants:
 - [Raul Blanco Vazquez](https://www.linkedin.com/in/raulblancovazquez/)
-- [Zara Hussain](https://www.linkedin.com/in/zara-hussain-b0229b208/)
+- [Zara Hussain](https://www.linkedin.com/in/zarahussain25/)
 - [Zeeshan Masood](https://www.linkedin.com/in/zeeshan-masood/)
